@@ -1,0 +1,36 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="example.com" resolutions="1x" timestamp="1482482214365">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="112279550" ref="index"/>
+    <file name="about.css" crc="259899837" ref="about"/>
+    <file name="store.css" crc="147572233" ref="store"/>
+  </folder>
+  <folder name="assets">
+    <file name="anatomy.mp3" crc="91228185" seo="true" mt="1475803479000"/>
+    <file name="metro.mp3" crc="4201878402" seo="true" mt="1475803476000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="store:index:about"/>
+    <file name="museutils.js" crc="163421577" ref="store:index:about"/>
+    <file name="whatinput.js" crc="86476730" ref="store:index:about"/>
+    <file name="museconfig.js" crc="168988563" ref="store:index:about"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="store:index:about"/>
+    <file name="jquery.watch.js" crc="104486786" ref="store:index:about"/>
+    <file name="html5shiv.js" crc="4241844378" ref="store:index:about"/>
+    <file name="require.js" crc="244322403" ref="store:index:about"/>
+  </folder>
+  <folder name="images">
+    <file name="home-backgroundc.png" crc="3994640813" seo="true" ref="store:index:about"/>
+    <file name="t-aoff2b8zw-tim-marshall.jpg" crc="4146076064" seo="true" ref="store"/>
+    <file name="home-column.png" crc="3779551240" seo="true" ref="store:index:about"/>
+    <file name="sub-logo-layer 2 copy 4c.png" crc="3815973461" seo="true" ref="store:index:about"/>
+    <file name="logo-layer 1c.png" crc="328608325" seo="true" ref="store:index:about"/>
+    <file name="infamous.jpg" crc="158299109" seo="true" ref="store"/>
+    <file name="home-columnc.png" crc="4228290632" seo="true" ref="store"/>
+    <file name="hwlai5lrhdm-clay-banks.jpg" crc="4072560374" ref="store:index:about"/>
+    <file name="home-big xc.png" crc="4049029950" seo="true" ref="index"/>
+  </folder>
+  <file name="store.html" crc="348323431" seo="true" mt="1482481985922" redirect="true"/>
+  <file name="index.html" crc="350804450" seo="true" mt="1482481740101" redirect="true"/>
+  <file name="about.html" crc="4250240017" seo="true" mt="1482481864927" redirect="true"/>
+</manifest>
